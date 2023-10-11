@@ -1,4 +1,4 @@
-> 🛑 **Notice**: This repository is no longer maintained; No further Issues or Pull Requests will be considered or approved.
+> 🛑 **Notice**: This repository is forked from the abandoned https://github.com/GetStream/Winds, no further work has been done yet.
 
 # Winds - A Beautiful Open Source RSS & Podcast App Powered by GetStream.io
 
